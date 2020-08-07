@@ -1,2 +1,0 @@
-JMH S 36 com.mercadolibre.workshop.Ejercicio2 S 80 com.mercadolibre.workshop.generated.Ejercicio2_appAverageTimeCalculation_jmhTest S 25 appAverageTimeCalculation S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 I 1 2 E E E E E E E E 
-JMH S 55 com.mercadolibre.workshop.MeasureApplicationPerformance S 99 com.mercadolibre.workshop.generated.MeasureApplicationPerformance_appAverageTimeCalculation_jmhTest S 25 appAverageTimeCalculation S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 I 1 2 E E E E E E E E 

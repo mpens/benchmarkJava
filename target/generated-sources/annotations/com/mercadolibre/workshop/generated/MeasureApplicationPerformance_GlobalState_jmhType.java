@@ -1,4 +1,0 @@
-package com.mercadolibre.workshop.generated;
-public class MeasureApplicationPerformance_GlobalState_jmhType extends MeasureApplicationPerformance_GlobalState_jmhType_B3 {
-}
-
