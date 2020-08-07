@@ -12,19 +12,6 @@ public class Ejercicio1 {
     //MeasureApplicationPerformance.appAverageTimeCalculation  avgt   40  0,006 ±  0,001   s/op
     public static String resolve(String input, String keys) {
         // insert your code here
-        Set<Character> keysToDelete= new HashSet<>();
-        StringBuilder stringBuilder = new StringBuilder();
-        for (Character c : keys.toCharArray()) {
-            keysToDelete.add(c);
-        }
-        for (Character c : input.toCharArray()) { // O(n)
-            boolean keyContainLetter = keysToDelete.contains(c);//O(1)
-            if (!keyContainLetter) {// O(1)
-                stringBuilder.append(c); // O(1)
-            }
-        }
-
-        return stringBuilder.toString();
     }
 
     public static void main(String[] args) {
